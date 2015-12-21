@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DigitalClockWidget</string>
+    <string name="date_format">EEEE, MMMM, dd</string>
+    <string name="widget_name">Digital clock</string>
 </resources>
